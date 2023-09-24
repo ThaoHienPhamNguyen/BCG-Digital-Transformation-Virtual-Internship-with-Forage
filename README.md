@@ -8,7 +8,6 @@ What you'll learn
   Meet your client CoffeeCo, a global coffee company facing a decline in same-store sales
  
   BCG has been engaged to transform the digital customer journey and explore ways technology can be used to increase customer engagement and same-store sales.
-
 What you'll do
  
   Conduct market research and identify examples of apps that have successfully improved customer engagement 
