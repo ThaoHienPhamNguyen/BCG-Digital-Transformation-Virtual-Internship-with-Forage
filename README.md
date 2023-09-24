@@ -2,21 +2,35 @@
 
 # Task One
 Understand emerging trends in using apps to improve customer engagement in F&B industry.
+
 What you'll learn
+  
   Meet your client CoffeeCo, a global coffee company facing a decline in same-store sales
+ 
   BCG has been engaged to transform the digital customer journey and explore ways technology can be used to increase customer engagement and same-store sales.
+
 What you'll do
+ 
   Conduct market research and identify examples of apps that have successfully improved customer engagement 
+  
   Summarize your findings in a presentation 
 
 # Task Two
+
 Identifying the highest impact features for consumers.
+
 What you'll learn
+  
   How to identify the right features to include in the CoffeeCo app
+  
   How to interpret customer journeys and pain points
+
 What you'll do
+  
   Summarize which customer pain points to focus on using your research from Task 1
+  
   Brainstorm how to solve the key customer pain point
+  
   Prepare a presentation with your solution 
 
 # Task Three
