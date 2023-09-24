@@ -3,7 +3,7 @@
 # Task One
 Understand emerging trends in using apps to improve customer engagement in F&B industry.
 
-* What you'll learn
+What you'll learn
   
   - Meet your client CoffeeCo, a global coffee company facing a decline in same-store sales
  
