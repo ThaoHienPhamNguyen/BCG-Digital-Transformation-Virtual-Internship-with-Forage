@@ -30,8 +30,3 @@ Rapid experimentation - evaluate the results from pilot runs.
   - Analyze raw data to determine the impact of each feature
   
   - Create a slide presentation with a summary of your findings
-
-# Task Five
-Scaling up pilot using agile methodology.
-
-  - Organize your next sprint using a Trello board
